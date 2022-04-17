@@ -1,1 +1,1 @@
-this is a new ubuntu git here!
+this is my c-learning
